@@ -1,6 +1,6 @@
 # Blinded and Confused
 
-The repository contains the source code for attacks described our paper "Blinded and Confused: Uncovering Systemic Flaws in Device Telemetry for Smart-Home Internet of Things" [[bib]].(wisec2019oconnor1.bib),[[pdf]](wisec2019oconnor1.pdf)
+The repository contains the source code for attacks described our paper "Blinded and Confused: Uncovering Systemic Flaws in Device Telemetry for Smart-Home Internet of Things" [[bib]](wisec2019oconnor1.bib),[[pdf]](wisec2019oconnor1.pdf)
 
 ## Requirements
 
